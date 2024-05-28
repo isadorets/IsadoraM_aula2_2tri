@@ -1,0 +1,58 @@
+body {background-color: rgb(255, 238, 190);
+}
+
+.p1 {font-size: 220%;
+    color: rgb(95, 58, 10);
+text-align: center;
+background-color: rgb(231, 156, 221);
+border-color: rgb(248, 205, 125);
+border-width: 6px;
+border-style: ridge;
+margin-top: 2%;
+margin-left: 30%;
+margin-right: 30% ;
+padding-top: 1%;
+padding-bottom: 1%;
+}
+
+.p2 {font-size: 120%;
+    color: rgb(95, 58, 10);
+    text-align: center;
+    background-color: rgb(213, 231, 147);
+    border-color: rgb(226, 170, 67);
+    border-width: 6px;
+    border-style: dashed;
+    margin-top: 5%;
+    margin-left: 60%;
+    margin-right: 10% ;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    }
+    
+.p3 {font-size: 120%;
+    color: rgb(95, 58, 10);
+    text-align: center;
+    background-color: rgb(248, 185, 185);
+    border-color: rgb(226, 170, 67);
+    border-width: 6px;
+  border-style: dotted;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 60% ;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    }
+    
+.p4  {font-size: 120%;
+    color: rgb(95, 58, 10);
+    text-align: center;
+    background-color: rgb(224, 197, 247);
+    border-color: rgb(226, 170, 67);
+    border-width: 6px;
+border-style: outset;
+    margin-top: 5%;
+    margin-left: 50%;
+    margin-right: 20% ;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    }
