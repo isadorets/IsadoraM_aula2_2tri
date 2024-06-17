@@ -56,3 +56,18 @@ border-style: outset;
     padding-top: 1%;
     padding-bottom: 1%;
     }
+
+.p5 {font-size: 220%;
+        color: rgb(95, 58, 10);
+    text-align: center;
+    background-color: rgb(231, 156, 221);
+    border-color: rgb(248, 205, 125);
+    border-width: 6px;
+    border-style: ridge;
+    margin-top: 2%;
+    margin-left: 30%;
+    margin-right: 30% ;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    }
+    
